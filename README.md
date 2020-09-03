@@ -5,4 +5,4 @@ Autor: Antonio Montalva
 # Detalles de cada solución:
 
 ## Clase 02
-  Hecho es Python 3.x.x
+  Hecho en Python 3.x.x
