@@ -6,7 +6,7 @@ Autor: Antonio Montalva
 
 ## Clase 02
   Hecho en Python 3.8.
-  Tiene primera implementacion de perceptron que se inicializa con pesos y bias dados, además se implementar compuertas lógicas y suma de bits con perceptrones con parámetros dados.
+  Tiene primera implementacion de perceptrón que se inicializa con pesos y bias dados, además se implementar compuertas lógicas y suma de bits con perceptrones con parámetros dados.
 
 ## Clase 04
   Hecho en Python 3.8.
